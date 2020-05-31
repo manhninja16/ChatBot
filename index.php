@@ -128,7 +128,7 @@
             <!-- Footer -->
             <div class="legal">
                 <div class="copyright">
-                    &copy; 2018 - 20xx <a href="https://www.facebook.com/UETVNUChatBot">UET CHATBOT</a>.
+                    &copy; 2020 - 20xx <a href="https://www.facebook.com/100668115013872">UET CHATBOT</a>.
                 </div>
                 <div class="version">
                     <b>Version: </b> 1.0.0
@@ -268,7 +268,7 @@
 				  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.1&appId=266578183986233&autoLogAppEvents=1';
 				  fjs.parentNode.insertBefore(js, fjs);
 				}(document, 'script', 'facebook-jssdk'));</script>
-				<div class="fb-page" data-href="https://www.facebook.com/UETVNUChatBot" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UETVNUChatBot" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UETVNUChatBot">UET ChatBot</a></blockquote></div>
+				<div class="fb-page" data-href="https://www.facebook.com/100668115013872" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UETVNUChatBot" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UETVNUChatBot">UET ChatBot</a></blockquote></div>
 			</div>
         </div>
     </section>
