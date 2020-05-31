@@ -111,7 +111,7 @@ echo'{
           "elements":[
             {
               "title":"Cảnh báo",
-              "subtitle":"Bạn chưa thả câu ! Hãy gõ \'Start\' để bắt đầu rắc thính nhé"
+              "subtitle":"Bạn chưa thả câu ! Hãy gõ \'Bắt đầu\' để bắt đầu rắc thính nhé"
             }
           ]
         }
@@ -130,7 +130,7 @@ echo'{
           "elements":[
             {
               "title":"Ngừng câu",
-              "subtitle":"Bạn đã ngừng câu ! Hãy gõ \'Start\' để quay lại rắc thính"
+              "subtitle":"Bạn đã ngừng câu ! Hãy gõ \'Bắt đầu\' để quay lại rắc thính"
             }
           ]
         }
