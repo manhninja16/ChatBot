@@ -228,7 +228,7 @@ echo'{
           "elements":[
             {
               "title":"Cảnh báo",
-              "subtitle":"Bạn đang được kết nối với cá rồi ! Hãy gõ \'End\' để thoát"
+              "subtitle":"Bạn đang được kết nối với cá rồi ! Hãy gõ \'End chat\' để thoát"
             }
           ]
         }
